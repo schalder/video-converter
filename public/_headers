@@ -1,3 +1,4 @@
-/*
-  Cross-Origin-Embedder-Policy: require-corp
-  Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Opener-Policy: same-origin</lov-write>
+
+Note: Make sure there are no empty lines at the end of the file and that the indentation is exactly two spaces before each header.
